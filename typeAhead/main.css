@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0; }
+  
+body {
+  text-align: center;
+  min-height: 100vh; 
+  background-color: #888; }
+  
+.title {
+  text-transform: uppercase;
+  font-family: 'Amatic SC', cursive;
+  font-size: calc(20px + 2vw);
+  text-shadow:0 0 2px rgba(0, 0, 0, 1), 0 0 10px rgba(0, 0, 0, 0.75); 
+  margin: 100px 0 50px 0;
+}  
+  
+#input {}
+
+#results {
+  margin: 50px 0;
+  font-family: 'Amatic SC', cursive;
+  font-size: calc(16px + .6vw);
+  text-shadow:0 0 2px rgba(0, 0, 0, 1), 0 0 4px rgba(0, 0, 0, 0.75); 
+}
+
+.population {
+  text-transform: uppercase;
+  font-family: arial;
+  font-size: calc(8px + .2vw);
+  text-shadow:0 0 1px rgba(0, 0, 0, 0.75), 0 0 2px rgba(0, 0, 0, 0.5); 
+}
