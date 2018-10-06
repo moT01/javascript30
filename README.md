@@ -1,4 +1,4 @@
-##### Several of the projects from [#javascript30](https://javascript30.com/)
+##### Several projects for [#javascript30](https://javascript30.com/)
 
 ##### [canvas demo](http://htmlpreview.github.io/?https://github.com/moT01/javascript30/blob/master/canvas/index.html)
 ##### [clock demo](http://htmlpreview.github.io/?https://github.com/moT01/javascript30/blob/master/clock/index.html)
